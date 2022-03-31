@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/spacex-missions/static/css/main.12833782.css",
+    "main.js": "/spacex-missions/static/js/main.faa877c3.js",
+    "static/js/787.ce7ae0ce.chunk.js": "/spacex-missions/static/js/787.ce7ae0ce.chunk.js",
+    "static/media/rocketBackground.gif": "/spacex-missions/static/media/rocketBackground.e3975e5d990f951053f3.gif",
+    "static/media/revolvingrocket.gif": "/spacex-missions/static/media/revolvingrocket.bdacc952018b3a808e5a.gif",
+    "static/media/notfound.png": "/spacex-missions/static/media/notfound.e4803bbf3b19afcfc078.png",
+    "index.html": "/spacex-missions/index.html",
+    "main.12833782.css.map": "/spacex-missions/static/css/main.12833782.css.map",
+    "main.faa877c3.js.map": "/spacex-missions/static/js/main.faa877c3.js.map",
+    "787.ce7ae0ce.chunk.js.map": "/spacex-missions/static/js/787.ce7ae0ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12833782.css",
+    "static/js/main.faa877c3.js"
+  ]
+}

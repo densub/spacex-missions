@@ -1,0 +1,91 @@
+.missionPoster {
+    width: 120px;
+    height: 120px;
+}
+
+.details {
+    color: rgb(76, 134, 134);
+    font-family: 'AlphaCentauri', sans-serif;
+    font-size: x-large;
+}
+
+.launchedAgo {
+    font-size: small;
+    color: coral;
+}
+
+.loading {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.missionName {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.sub-details {
+    font-size: large;
+}
+
+table {
+    width:100%;
+    border-collapse:collapse;
+}
+
+.description {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.DataView {
+    position: relative;
+    padding: 10px;
+    height: 60%;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    box-shadow:pink;
+    background-color:white;
+    opacity: 0.8;
+    overflow-y: scroll;
+    border: 1px white;
+    border-radius: 20px;
+    overflow-y: scroll;
+    padding-right: 17px;
+    box-sizing: content-box;
+}
+
+.MainDiv {
+    position:fixed;
+    font-family: "Raleway", sans-serif;
+    background-color: #EFEFEF;
+    display: flex;
+    justify-content: center;
+    overflow:hidden;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position:absolute;
+    padding-top: 10%;
+    background-image: url('./assets/rocketBackground.gif');
+    background-attachment:fixed;
+    background-size:cover;
+    background-position:center-top;
+    background-position-x: 50%;
+    background-position-y: 0%;
+}
+
+.success {
+    color: green;
+    font-size: x-small;
+}
+
+.failure {
+    color: red;
+    font-size: x-small;
+}
